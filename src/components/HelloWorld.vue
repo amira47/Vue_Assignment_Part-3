@@ -5,20 +5,19 @@
 </template>
 
 <script>
-import marks from "./json/data.json";
+import data from "./json/data.json";
 
+data.sort((a, b) => (a.Score < b.Score) ? 1 : (a.Score === b.Score) ? ((a.Duration > b.Duration) ? 1 : -1) : -1 ).map((e,index) => {e.Position = index+1;})
 export default {
-  name: "student marks",
+  name: "leaderboard",
   data() {
     return {
-      items: marks
+      items: data
     };
-  }
+  },
 };
 </script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style>
+<style >
 thead tr {
   background-color: #00BCD4;
   color: white;

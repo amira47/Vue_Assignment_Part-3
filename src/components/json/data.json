@@ -1,56 +1,56 @@
 [
   {
-    "Position": "1",
+    "Position": 1,
     "Name": "Rohan",
-    "Score": "10",
-    "Duration (sec)": "25"
+    "Score": 10,
+    "Duration": 25
   },
   {
-    "Position": "2",
+    "Position": 2,
     "Name": "Faisal",
-    "Score": "8",
-    "Duration (sec)": "30"
+    "Score": 8,
+    "Duration": 30
   },
   {
-    "Position": "4",
+    "Position": 4,
     "Name": "Tarik",
-    "Score": "10",
-    "Duration (sec)": "25"
+    "Score": 10,
+    "Duration": 25
   },
   {
-    "Position": "5",
+    "Position": 5,
     "Name": "Mehedi ",
-    "Score": "8",
-    "Duration (sec)": "40"
+    "Score": 8,
+    "Duration": 40
   },
   {
-    "Position": "6",
+    "Position": 6,
     "Name": "Zunaid",
-    "Score": "6",
-    "Duration (sec)": "45"
+    "Score": 6,
+    "Duration": 45
   },
   {
-    "Position": "7",
+    "Position": 7,
     "Name": "Sumaiya",
-    "Score": "10",
-    "Duration (sec)": "20"
+    "Score": 10,
+    "Duration": 20
   },
   {
-    "Position": "8",
+    "Position": 8,
     "Name": "Samia",
-    "Score": "5",
-    "Duration (sec)": "45"
+    "Score": 5,
+    "Duration": 45
   },
   {
-    "Position": "9",
+    "Position": 9,
     "Name": "Liza",
-    "Score": "6",
-    "Duration (sec)": "30"
+    "Score": 6,
+    "Duration": 30
   },
   {
-    "Position": "10",
+    "Position": 10,
     "Name": "Aisha",
-    "Score": "7",
-    "Duration (sec)": "20"
+    "Score": 7,
+    "Duration": 20
   }
 ]
