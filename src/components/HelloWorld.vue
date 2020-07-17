@@ -1,30 +1,27 @@
 <template>
-<html>
-  <div class="hello">
+  <div>
     <b-table striped hover :items="items"></b-table>
   </div>
-</html>
 </template>
 
 <script>
+import marks from "./json/data.json";
+
 export default {
+  name: "student marks",
   data() {
     return {
-      items: [
-        {
-          Name: "Rohan",
-          Score: 10,
-          Duration: 30
-        }
-      ]
+      items: marks
     };
   }
 };
 </script>
 
-
-<style scoped>
-th {
-  background-color: teal;
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style>
+thead tr {
+  background-color: #00BCD4;
+  color: white;
 }
 </style>
+
