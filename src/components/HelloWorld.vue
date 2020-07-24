@@ -7,7 +7,7 @@
 <script>
 import data from "./json/data.json";
 
-data.sort((a, b) => (a.Score < b.Score) ? 1 : (a.Score === b.Score) ? ((a.Duration > b.Duration) ? 1 : -1) : -1 ).map((e,index) => {e.Position = index+1;})
+data.sort((a, b) => (a.Percentage < b.Percentage) ? 1 : (a.Percentage === b.Percentage) ? ((a.Duration > b.Duration) ? 1 : -1) : -1 ).map((e,index) => {e.Position = index+1;})
 export default {
   name: "leaderboard",
   data() {
@@ -23,4 +23,3 @@ thead tr {
   color: white;
 }
 </style>
-

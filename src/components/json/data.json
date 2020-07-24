@@ -1,56 +1,68 @@
 [
-  {
-    "Position": 1,
-    "Name": "Rohan",
-    "Score": 10,
-    "Duration": 25
-  },
-  {
-    "Position": 2,
-    "Name": "Faisal",
-    "Score": 8,
-    "Duration": 30
-  },
-  {
-    "Position": 4,
-    "Name": "Tarik",
-    "Score": 10,
-    "Duration": 25
-  },
-  {
-    "Position": 5,
-    "Name": "Mehedi ",
-    "Score": 8,
-    "Duration": 40
-  },
-  {
-    "Position": 6,
-    "Name": "Zunaid",
-    "Score": 6,
-    "Duration": 45
-  },
-  {
-    "Position": 7,
-    "Name": "Sumaiya",
-    "Score": 10,
-    "Duration": 20
-  },
-  {
-    "Position": 8,
-    "Name": "Samia",
-    "Score": 5,
-    "Duration": 45
-  },
-  {
-    "Position": 9,
-    "Name": "Liza",
-    "Score": 6,
-    "Duration": 30
-  },
-  {
-    "Position": 10,
-    "Name": "Aisha",
-    "Score": 7,
-    "Duration": 20
-  }
-]
+    {
+      "Position": 1,
+      "Name": "Rohan",
+      "Percentage": 85,
+      "Duration": 25
+    },
+    {
+      "Position": 2,
+      "Name": "Faisal",
+      "Percentage": 65,
+      "Duration": 30
+    },
+    {
+      "Position": 4,
+      "Name": "Tarik",
+      "Percentage": 70,
+      "Duration": 25
+    },
+    {
+      "Position": 5,
+      "Name": "Mehedi ",
+      "Percentage": 50,
+      "Duration": 40
+    },
+    {
+      "Position": 6,
+      "Name": "Imran",
+      "Percentage": 38,
+      "Duration": 45
+    },
+    {
+      "Position": 7,
+      "Name": "Sumaiya",
+      "Percentage": 100,
+      "Duration": 20
+    },
+    {
+      "Position": 8,
+      "Name": "Samia",
+      "Percentage": 85,
+      "Duration": 45
+    },
+    {
+      "Position": 9,
+      "Name": "Liza",
+      "Percentage": 96,
+      "Duration": 30
+    },
+    {
+      "Position": 10,
+      "Name": "Aisha",
+      "Percentage": 55,
+      "Duration": 12
+    },
+    {
+    "Position": "",
+    "Name": "Sadia",
+    "Percentage": 100,
+    "Duration": 10
+    },
+    {
+    "Position": "",
+    "Name": "Rohit",
+    "Percentage": 90,
+    "Duration": 9
+    }         
+  ]
